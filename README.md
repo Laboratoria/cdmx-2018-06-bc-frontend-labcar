@@ -8,7 +8,7 @@ Recrea la siguiente página web. Las imágenes que necesitarás las
 encuentras [aquí](https://github.com/Laboratoria-learning/lab-car-boilerplate).
 
 ### 1. La versión movil
-Buscamos implementar la técnica de `mobile firt` y que al tener lista esta versión generes un primer tag en github.
+Buscamos implementar la técnica de `mobile first` y que al tener lista esta versión generes un primer tag en github.
 
 ![Lab-car-movil](https://raw.githubusercontent.com/AnaSalazar/curricula-js/0b700308f0c6ed452596912fcef8103b8f88386b/04-social-network/01-css-frameworks/08-code-challenges/images/v-movil.png)
 
