@@ -1,0 +1,32 @@
+{
+  "name": "cdmx-2018-06-bc-frontend-labcar",
+  "version": "1.0.0",
+  "description": "Maqueta, responsive",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdrianaEsvereidyTV/cdmx-2018-06-bc-frontend-labcar.git"
+  },
+  "keywords": [
+    "Maqueta",
+    "responsive",
+    "design"
+  ],
+  "author": "Ad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdrianaEsvereidyTV/cdmx-2018-06-bc-frontend-labcar/issues"
+  },
+  "homepage": "https://github.com/AdrianaEsvereidyTV/cdmx-2018-06-bc-frontend-labcar#readme",
+  "devDependencies": {
+    "browser-sync": "^2.24.6",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.1.3"
+  }
+}
